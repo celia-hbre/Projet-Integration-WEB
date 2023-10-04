@@ -1,0 +1,35 @@
+body{
+    margin: 0%;
+}
+
+.haut{
+    display: flex;
+    align-items: center;
+    background-color: rgb(37, 206, 141);
+    padding: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h3{
+    padding-right:50px ;
+}
+
+img{
+    width: 40%;
+}
+.contenu{
+    margin-top: 50px;
+    margin-left: 50px;
+    justify-content: flex-start;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.liste{
+    margin-left: 30px;
+}
+
+.plus{
+    font-weight: bold;
+    
+}
